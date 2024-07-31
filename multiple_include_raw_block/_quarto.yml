@@ -8,8 +8,6 @@ book:
   chapters:
     - index.qmd
 
-bibliography: references.bib
-
 execute: 
   cache: false
   freeze: false

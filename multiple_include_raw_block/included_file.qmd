@@ -5,7 +5,9 @@ jupyter: python3
 
 ## Included File
 
-file to include
+a code block will trigger the error.
+
+commenting the code block will not trigger the error
 
 ```{python}
 x=1
