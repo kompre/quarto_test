@@ -1,0 +1,12 @@
+---
+jupyter: python3
+---
+
+<!-- ```{python}
+x=2
+``` -->
+
+## Included File 2
+
+with a code block after the raw block and before any text
+

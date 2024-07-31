@@ -1,0 +1,11 @@
+{
+  "hash": "5e915958fa668824d41352a6a567e9f6",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "# Summary\n\nIn summary, this book has no content whatsoever.\n\n---\njupyter: python3\n---\n\n\n\n\n## Included File\n\nfile to include\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nx=1\n```\n:::\n\n\n---\n\njupyter: python3\n---\n\n\n\n<!-- ```{python}\nx=2\n``` -->\n\n## Included File 2\n\nwith a code block after the raw block and before any text\n\n\n\n\n<!-- {{< include included_file_3.qmd >}} -->\n\n",
+    "supporting": [
+      "summary_files"
+    ],
+    "filters": []
+  }
+}
